@@ -1,7 +1,7 @@
-README = """# Python & Data Science — UPJV Amiens
+# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** stephane ladj
+**Formation :** L3 Économie
 **Année :** 2026-2027
 
 ## Description
@@ -20,6 +20,3 @@ Python & Data Science réalisés sur Google Colab.
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
-"""
-
-print(README)
